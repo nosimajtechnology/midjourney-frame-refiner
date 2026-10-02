@@ -1,0 +1,4 @@
+interface:
+  display_name: "Midjourney Frame Refiner"
+  short_description: "Clean up frames while preserving their original style"
+  default_prompt: "Use $midjourney-frame-refiner to clean up this frame while preserving its identity, composition, and visual style."
