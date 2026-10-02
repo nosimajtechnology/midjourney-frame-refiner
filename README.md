@@ -6,6 +6,17 @@ Built around the GPT Image cleanup workflow, with support for an existing compat
 
 A reusable agent skill for cleaning up Midjourney frames while preserving the look that made them worth keeping. Use it between your chosen genesis frame and animation or storyboard production.
 
+## Before and after
+
+A real example from the session that inspired this skill: a Midjourney frame of a Chihuahua in silver armor and a pink durag, refined with the image-editing workflow.
+
+| Before · Midjourney frame | After · refined frame |
+| --- | --- |
+| ![Original Midjourney frame with heavy grain and soft armor details](examples/before.png) | ![Refined frame with clearer facial features, durag folds, and armor details](examples/after.png) |
+| 1024 × 1024 | 1254 × 1254 |
+
+The cleanup reduces heavy grain and blur while retaining the retro game aesthetic. These are the original session files. This example demonstrates generative refinement with a modest resolution increase, not a verified 2× upscale or pixel-identical restoration.
+
 ## What it does
 
 - Reduces distracting grain, blur, compression artifacts, and muddy detail.
